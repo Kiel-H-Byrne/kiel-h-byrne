@@ -1,4 +1,4 @@
-# Hey there, feel free to check out what I've been up to!
+# Hey there, I'm Kiel  _/kīˈel/_
 
 ## Full Stack Software Engineer
 
@@ -7,10 +7,13 @@
 ### A bit about me:
 
 - Nationality: 🇹🇹
-- Personal interests: 🤴🏾 🇹🇹 📿 ♦️ 🖤 ✊🏾 📐🧭 ⚽ 🥊 💻 🛫
-- Current location: 📍 Washington, DC, USA
-
-🌎 Check my [website](https://kielbyrne.com/)
+- Current location:  DMV, USA
+- Personal interests: 🇹🇹 📿 ♦️ 🖤 ✊🏾 📐🧭🤴🏾 ⚽ 🥊 💻 🛫
+- 🌱 I’m currently learning everything 🤣
+- 🧑🏾‍🤝‍🧑🏿 I’m looking to collaborate with other content creators
+- 🥅 2023 Goals: Learn more about web3
+- ⚡ Fun fact: If I had nothing but time, I would produce/play music, draw/paint, and travel...
+- 🌎 Check my [website](https://kielbyrne.com/)
 
 I'm always working on something, and often too excited about it to stop and update my portfolio
 
