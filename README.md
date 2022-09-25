@@ -8,9 +8,9 @@
 
 - Nationality: 🇹🇹
 - Current location:  DMV, USA
-- Personal interests: 🇹🇹 📿 ♦️ 🖤 ✊🏾 📐🧭🤴🏾 ⚽ 🥊 💻 🛫
-- 🌱 I’m currently learning everything 🤣
-- 🧑🏾‍🤝‍🧑🏿 I’m looking to collaborate with other content creators
+- Personal interests: 📿 🖤 ✊🏾 📐🧭🤴🏾 ⚽ 🥊 💻 🛫
+- 📚 I’m currently learning everything 
+- 🧑🏾‍🤝‍🧑🏿 I’m looking to collaborate with other content creators on tools that bridge education or wealth gaps.
 - 🥅 2023 Goals: Learn more about web3
 - ⚡ Fun fact: If I had nothing but time, I would produce/play music, draw/paint, and travel...
 - 🌎 Check my [website](https://kielbyrne.com/)
@@ -31,7 +31,6 @@ Feel free to reach out and see what I'm up to now 💬
     </a>
 </div>
 
-{% gist 9418a89d75a728575ad26f48cb074f08 %}
 
 <!--
 **Kiel-H-Byrne/kiel-h-byrne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
