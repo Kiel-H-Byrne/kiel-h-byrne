@@ -31,8 +31,7 @@ Feel free to reach out and see what I'm up to now 💬
     </a>
 </div>
 
-<script src="https://gist.github.com/Kiel-H-Byrne/9418a89d75a728575ad26f48cb074f08.js">
-</script>
+{% gist 9418a89d75a728575ad26f48cb074f08 %}
 
 <!--
 **Kiel-H-Byrne/kiel-h-byrne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
