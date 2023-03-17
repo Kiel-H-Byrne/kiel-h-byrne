@@ -2,7 +2,8 @@
 
 ## Full Stack Software Engineer
 
-💻 I'm currently working at [GoPuff](https://gopuff.com), helping folks order what they need in seconds, Delivered in 30 minutes or less. ⚡️
+💻 I enjoy analyzing data and shaping it to build tools which empower communities. Passionate about bridging wealth, education gaps. 
+🐝 Buzzwords: Visualization, Dashboards, Crowd-sourced, AI, Automation / Scripting, 
 
 ### A bit about me:
 
@@ -11,7 +12,7 @@
 - Personal interests: 📿 🖤 ✊🏾 📐🧭🤴🏾 ⚽ 🥊 💻 🛫
 - 📚 I’m currently learning everything 
 - 🧑🏾‍🤝‍🧑🏿 I’m looking to collaborate with other content creators on tools that bridge education or wealth gaps.
-- 🥅 2023 Goals: Learn more about web3
+- 🥅 2023 Goals: Learn more about web3 / AI modeling
 - ⚡ Fun fact: If I had nothing but time, I would produce/play music, draw/paint, and travel...
 - 🌎 Check my [website](https://kielbyrne.com/)
 
@@ -30,20 +31,3 @@ Feel free to reach out and see what I'm up to now 💬
     </svg>
     </a>
 </div>
-
-
-<!--
-**Kiel-H-Byrne/kiel-h-byrne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
