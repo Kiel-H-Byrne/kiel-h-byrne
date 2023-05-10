@@ -2,8 +2,10 @@
 
 ## Full Stack Software Engineer
 
-💻 I enjoy analyzing data and shaping it to build tools which empower communities. Passionate about bridging wealth, education gaps. 
-🐝 Buzzwords: Visualization, Dashboards, Crowd-sourced, AI, Automation / Scripting, 
+💻 I enjoy analyzing data and shaping it to build tools which empower communities. Passionate about bridging wealth, and education gaps; rooting for the underdog.
+🐝 Buzzwords: Full-Stack / Front-End Developer, Visualization, Dashboards, Crowd-sourced, AI, Automation / Scripting
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### A bit about me:
 
