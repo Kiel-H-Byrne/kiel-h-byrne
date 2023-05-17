@@ -102,8 +102,8 @@ Feel free to reach out and see what I'm up to now 💬
 ## Github Stats
 [![Trophies](https://github-profile-trophy.vercel.app/?username=kiel-h-byrne&theme=onedark)](#)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=kiel-h-byrne&count_private=true&show_icons=true&title_color=5b3471&icon_color=5b3471&text_color=9f9f9f&bg_color=151515)](#)
-[![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiel-h-byrne&theme=dark)](#)
+<img  src="https://github-readme-stats.vercel.app/api?username=kiel-h-byrne&count_private=true&show_icons=true&title_color=5b3471&icon_color=5b3471&text_color=9f9f9f&bg_color=151515" alt="Stats" />
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiel-h-byrne&theme=dark" alt="Summary" />
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiel-h-byrne) -->
 
 
