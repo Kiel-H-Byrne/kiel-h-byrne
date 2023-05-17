@@ -1,12 +1,8 @@
-# Hey there, I'm Kiel  _/kīˈel/_
-
-## Full Stack Software Engineer & [IT Consultant](https://tenksolutions.com)
+# Hey there, I'm Kiel (_/kīˈel/_). A Full Stack Software Engineer & [IT Consultant](https://tenksolutions.com) in the Metropolitan DC Area.
 
 💻 I enjoy analyzing data and shaping it to build tools which empower communities. I mainly work with typescript, React/Native, Next.js & Firebase/Google Cloud Platform. Passionate about bridging wealth, and education gaps; rooting for the underdog.
 
 🐝 Buzzwords: Full-Stack / Front-End Developer, API Developer, Data Visualization, Dashboards, Prompt Engineer, Automation / Scripting
-
-
 
 ### A bit about me:
 
