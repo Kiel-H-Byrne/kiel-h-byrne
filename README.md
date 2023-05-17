@@ -1,4 +1,4 @@
-# Hey there, I'm Kiel (_/kīˈel/_). 
+# Hey there, I'm Kiel _/kīˈel/_ 
 ## A Full Stack Software Engineer & [IT Consultant](https://tenksolutions.com) in the Metropolitan DC Area.
 
 💻 I enjoy analyzing data and shaping it to build tools which empower communities. I mainly work with typescript, React/Native, Next.js & Firebase/Google Cloud Platform. Passionate about bridging wealth, and education gaps; rooting for the underdog.
@@ -116,3 +116,5 @@ Feel free to reach out and see what I'm up to now 💬
     </svg>
     </a>
 </div>
+
+![Hit Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkiel-h-byrne1212%2Fhit-counter)
