@@ -1,15 +1,13 @@
 # Hey there, I'm Kiel _/kīˈel/_ 
 ## A Full Stack Software Engineer & [IT Consultant](https://tenksolutions.com) in the Metropolitan DC Area.
 
-💻 I enjoy analyzing data and shaping it to build tools which empower communities. I mainly work with typescript, React/Native, Next.js & Firebase/Google Cloud Platform. Passionate about bridging wealth, and education gaps; rooting for the underdog.
-
-🐝 Buzzwords: Full-Stack / Front-End Developer, API Developer, Data Visualization, Dashboards, Prompt Engineer, Automation / Scripting
+I enjoy analyzing data and shaping it to build tools which empower communities. I mainly work with typescript, React/Native, Next.js & Firebase/Google Cloud Platform. Passionate about bridging wealth, and education gaps; rooting for the underdog.
 
 ### A bit about me:
 
-- Nationality: 🇹🇹
-- Current location:  DMV, USA
-- Personal interests: 📿 🖤 ✊🏾 📐🧭🤴🏾 ⚽ 🥊 💻 🛫
+- 📍 Nationality: 🇹🇹
+- 🏠 Current location:  DMV, USA
+- 😊 Personal interests: 📿 🖤 ✊🏾 📐🧭🤴🏾 ⚽ 🥊 💻 🛫
 - 📚 I’m currently learning Python,  Prompt Engineering 
 - 🧑🏾‍🤝‍🧑🏿 I’m looking to collaborate with other content creators on tools that bridge education or wealth gaps.
 - 🥅 Next Year Goals: Learn more about AI modeling, utilize AI to create consumer product or service.
