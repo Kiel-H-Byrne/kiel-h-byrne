@@ -1,7 +1,7 @@
 # Hey there, I'm Kiel _/kīˈel/_ 
 ## A Full Stack Software Engineer in the Metropolitan DC Area.
 
-I enjoy analyzing data and shaping it to build tools which empower communities. I mainly work with typescript, React/Native, Next.js & Firebase/Google Cloud Platform. Passionate about bridging wealth, and education gaps; rooting for the underdog.
+I enjoy analyzing data and business/customer goals and using said information to build tools which empower people and communities. I build React apps using Typescript; usually in front of Next.js & Firebase/Google Cloud Platform. I'm passionate about bridging wealth, and education gaps; rooting for the underdog.
 
 ### A bit about me:
 
@@ -9,10 +9,10 @@ I enjoy analyzing data and shaping it to build tools which empower communities. 
 - 🏠 Current location:  DMV, USA
 - 😊 Personal interests: 📿 🖤 ✊🏾 📐🧭🤴🏾 ⚽ 🥊 💻 🛫
 - 📚 I’m currently learning Python,  Prompt Engineering 
-- 🧑🏾‍🤝‍🧑🏿 I’m looking to collaborate with other content creators on tools that bridge education or wealth gaps.
+- 🧑🏾‍🤝‍🧑🏿 I’m looking to collaborate with other open-source developers to bridge education or wealth gaps.
 - 🥅 Next Year Goals: Learn more about AI modeling, utilize AI to create consumer product or service.
 - ⚡ Fun fact: If I had nothing but time, I would produce/play music, draw/paint, and travel...
-- 🌎 Check my [website](https://kielbyrne.com/)
+- 🌎 Check my [personal website](https://kielbyrne.com/)
 
 Feel free to reach out and see what I'm up to now 💬
 
